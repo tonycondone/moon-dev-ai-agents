@@ -245,7 +245,7 @@ notion-client==2.2.1
 numba==0.60.0
 numexpr @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_45yefq0kt6/croot/numexpr_1696515289183/work
 numpy==1.26.2
-oauthlib==3.2.2
+oauthlib==4.0.1
 onnxruntime==1.22.0
 open-interpreter==0.3.3
 openai==2.6.1
