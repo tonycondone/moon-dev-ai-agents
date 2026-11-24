@@ -114,7 +114,7 @@ fonttools==4.51.0
 fqdn==1.5.1
 frozendict==2.3.10
 frozenlist==1.7.0
-fsspec==2024.6.1
+fsspec==2026.6.0
 future==1.0.0
 gast==0.5.4
 git-python==1.0.3
