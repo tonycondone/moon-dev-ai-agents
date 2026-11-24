@@ -492,7 +492,7 @@ PyRect==0.2.0
 PyScreeze==0.1.30
 PySocks @ file:///Users/ktietz/ci_310/pysocks_1643961536721/work
 pytesseract==0.3.13
-pytest==8.4.1
+pytest==9.0.3
 pytest-asyncio==1.1.0
 pytest-mock==3.14.1
 python-dateutil==2.8.2
