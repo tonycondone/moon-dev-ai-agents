@@ -207,7 +207,7 @@ loky==3.4.1
 lru-dict==1.2.0
 lxml==5.2.1
 lz4==4.4.4
-Markdown==3.6
+Markdown==3.8.1
 markdown-it-py==3.0.0
 MarkupSafe==2.1.5
 marshmallow==3.26.1
